@@ -1,6 +1,6 @@
 # YouTube Unsubscribe Script
 
-This script automates the process of unsubscribing from channels on YouTube. It's designed to work with the English version of YouTube. Please use this script responsibly and ensure you comply with YouTube's Terms of Service.
+This script automates the process of unsubscribing from channels on YouTube. It's designed to work with the English version of YouTube.
 
 ## Instructions
 
