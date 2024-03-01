@@ -23,9 +23,10 @@ Follow these steps carefully to use the script:
 5. **Access the Console Tab**:
    In the developer tools window, locate and click on the `Console` tab. This is where you will execute the script.
 
-   ![Google Chrome Console Tab](https://github.com/mahizes/Unsubscribe-from-YouTube-channels/assets/120032248/de1ffaff-b50a-45bb-9961-32f8f5e3bf47)
+   ![Google Chrome Console Tab](https://github.com/mahizes/Unsubscribe-from-YouTube-channels/assets/120032248/de1ffaff-b50a-45bb-9961-32f8f5e3bf47 "Google Chrome Console Tab")
 
-   ![Mozilla Firefox Console Tab](https://github.com/mahizes/Unsubscribe-from-YouTube-channels/assets/120032248/b0d8b7d8-0393-4e28-b0a6-3d8169b323db)
+
+   ![Mozilla Firefox Console Tab](https://github.com/mahizes/Unsubscribe-from-YouTube-channels/assets/120032248/b0d8b7d8-0393-4e28-b0a6-3d8169b323db "Mozilla Firefox Console Tab")
 
 6. **Copy and Paste the Script**:
    Copy the unsubscribe script provided below. Then, click inside the console command line, paste the script, and press `Enter` to run it.
